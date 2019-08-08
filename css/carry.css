@@ -1,0 +1,135 @@
+body{
+    background-color: skyblue;
+}
+#sky{
+    
+    background-color: indianred;
+    color: aquamarine;
+    height: 100px;
+    text-align: center;
+    font-size: 45px;   
+}
+#nav1{
+  position: sticky;   
+}
+ul{
+     position: sticky;
+}
+#img{
+    background-image: url("../images/../canada-784392_1280.jpg")   ;
+    width: 800px;
+    height: 400px;
+    margin-left: 350px;
+}
+
+li{
+    float: left;
+    
+}
+#n1{
+    color: black;
+    background-color:darkorange;
+    width: 200px;
+    height:20px;
+    text-underline-position: none;
+    margin-left: 250px;
+    text-align: center;
+   
+    
+}
+#n2{
+    color: black;
+    background-color:darkorange;
+    width: 200px;
+    height:20px;
+    text-underline-position: none;
+    margin-left: 250px;
+    text-align: center;
+    
+}
+#n3{
+    color: black;
+    background-color:darkorange;
+    width: 200px;
+    height:20px;
+    text-underline-position: none;
+    margin-left: 250px;
+    text-align: center;
+    
+}
+#n4{
+    color: black;
+    background-color:darkorange;
+    width: 200px;
+    height:zzz0px;
+    text-underline-position: none;
+    margin-left: 250px;
+    text-align: center;
+    
+}
+#n1:hover{
+    color: greenyellow;
+    background-color: black;
+}#n4:hover{
+    color: greenyellow;
+    background-color: white;
+}
+#n2:hover{
+    color: greenyellow;
+    background-color: black;
+}
+#n3:hover{
+    color: greenyellow;
+    background-color: black;
+}
+#head1{
+    text-align: center;
+    color: darkred;
+}
+#p1{
+    font-size: 30px;
+    color: darkred;
+}
+
+
+
+#last{
+    background-color: red;
+    
+    
+}
+#forcen{
+    text-align: center
+}
+#thevid{
+    margin-top: -33%;
+    opacity: .7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
