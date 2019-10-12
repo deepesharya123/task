@@ -1,9 +1,9 @@
 body{
-    background-color: skyblue;
+    background-color: blue;
 }
 #sky{
     
-    background-color: indianred;
+    background-color: red;
     color: aquamarine;
     height: 100px;
     text-align: center;
@@ -23,7 +23,7 @@ ul{
 }
 
 li{
-    float: left;
+    float: right;
     
 }
 #n1{
